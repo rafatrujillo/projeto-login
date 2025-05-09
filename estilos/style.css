@@ -1,0 +1,60 @@
+@charset "UTF-8";
+
+/* mobile first */
+
+/* Paleta de cores 
+    Pastel: #cc9329
+    azul: #29a3cc
+    */
+
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+html, body {
+    width: 100vw;
+    height: 100vh;
+}
+
+body {
+    background-color: #29a3cc;
+}
+
+#imagem img {
+    width: 50px;
+    height: 50px;
+    background-position: center top;
+}
+
+#formulario {
+    background-color: white;
+    margin: auto;
+    width: 50%;
+    border-radius: 0px 0px 10px 10px;
+    text-align: center;
+    padding: 10px;
+}
+
+#formulario h1 {
+    padding: 5px;
+}
+
+#formulario p {
+    font-size: 12px;
+    text-align: justify;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.fundo {
+    display: block;
+    color: white;
+    background-color: #cc9329;
+    text-align: left;
+    padding: 10px;
+    padding-right: 200px;
+    margin: 0px auto;
+    border-radius: 10px;
+}
