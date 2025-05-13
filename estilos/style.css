@@ -29,7 +29,6 @@ main{
 section#login {
     background-color: white;
     border-radius: 20px;
-    text-align: center;
     width: 250px;
     height: 500px;
     overflow: hidden;
@@ -54,5 +53,14 @@ section#login > div#imagem {
 #formulario {
     display: block;
     padding: 10px;
+}
+
+div#formulario > h1 {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+div#formulario > p {
+    font-size: 0.8em;
 }
 
