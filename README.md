@@ -6,7 +6,7 @@ Tela de login estilizada desenvolvida como projeto prático do curso de HTML5 e 
 
 ## 📸 Preview
 
-> 💡 *Adicione aqui um print/screenshot do projeto!*
+![projeto-android](https://github.com/user-attachments/assets/50351853-da14-42dc-a896-29fa4b37cf8d)
 
 ---
 
